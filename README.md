@@ -8,5 +8,6 @@
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
 
 [Course Slack](neurosciencec-cvb8549.slack.com)(requires invite)
+<br>
 [Course Canvas](https://ucdenver.instructure.com/courses/455954)(requires CU credentials)
 
