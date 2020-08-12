@@ -1,8 +1,6 @@
 # NSP Bootcamp 2020
-<br>
 
 ### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2020 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 20-21. 
-<br>
 
 [Course Slack](neurosciencec-cvb8549.slack.com)(requires invite)
 <br>
