@@ -10,7 +10,7 @@
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
 
 ### Morning session, 9:30 - 11:30AM
-The morning session are  formatted to be interactive lectures; after the introdutory slides, we will be running code together, with students running and writing code along with the instructors.
+The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. A second screen would be useful, but it is not required. 
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
 | 9:30 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
