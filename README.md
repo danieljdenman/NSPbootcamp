@@ -13,9 +13,9 @@
 The morning session are  formatted to be interactive lectures; after the introdutory slides, we will be running code together, with students running and writing code along with the instructors.
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 9:30 - 10:20 |Introduction to Python; installation, kernels, and packages | scripts; flow control statements; programming objects, programming things | 
-| 10:20 - 10:30 |break     | break     | 
-| 10:30 - 11:30| Jupyter notebook guided session - Introduction.py | DenmanLab intro; CoLab example; start partner CoLab projects| 
+| 9:30 - 10:20AM |Introduction to Python; installation, kernels, and packages | scripts; flow control statements; programming objects, programming things | 
+| 10:20 - 10:30AM |break     | break     | 
+| 10:30 - 11:30AM| Jupyter notebook guided session - Introduction.py | DenmanLab intro; CoLab example; start partner CoLab projects| 
 
 
 
