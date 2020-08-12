@@ -2,9 +2,9 @@
 
 ### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2020 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 20-21. 
 
-[Course Slack](neurosciencec-cvb8549.slack.com)(requires invite)
+[Course Slack](neurosciencec-cvb8549.slack.com) (requires invite)
 <br>
-[Course Canvas](https://ucdenver.instructure.com/courses/455954)(requires CU credentials)
+[Course Canvas](https://ucdenver.instructure.com/courses/455954) (requires CU credentials)
 <br>
 
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
@@ -25,3 +25,11 @@ The afternoon sessions will be held as a looser group session. The instructor wi
 | --- | ------------- |:-------------:| 
 | 2PM - | Choose your own adventure: Neuroscience Jupyter notebooks | Student-generated partner projects  | 
 
+### Instructors
+- Dan Denman
+- Ernie Salcedo
+- Emily Gibson
+
+### TAs
+- Nick George
+- Josh Hunt
