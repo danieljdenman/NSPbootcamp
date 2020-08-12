@@ -29,6 +29,7 @@ The afternoon sessions will be held as a looser group session, running in parall
 - Dan Denman
 - Ernie Salcedo
 - Emily Gibson
+- Diego Restrepo
 
 ### TAs
 - Nick George
