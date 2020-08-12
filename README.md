@@ -13,9 +13,9 @@
 The morning session are  formatted to be interactive lectures; after the introdutory slides, we will be running code together, with students running and writing code along with the instructors.
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 9:30 - 10:20AM |Introduction to Python; installation, kernels, and packages | scripts; flow control statements; programming objects, programming things | 
+| 9:30 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
 | 10:20 - 10:30AM |break     | break     | 
-| 10:30 - 11:30AM| Jupyter notebook guided session - Introduction.py | DenmanLab intro; CoLab example; start partner CoLab projects| 
+| 10:30 - 11:30AM| Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - CoLab example <br> - start partner CoLab projects| 
 
 
 
@@ -23,7 +23,7 @@ The morning session are  formatted to be interactive lectures; after the introdu
 The afternoon sessions will be held as a looser group session. The instructor will lay out the goals with the whole group at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask questions in the Slack channel during this time; we will use the main Zoom call to spawn breakout rooms for more in-depth questions, discussions, and check-ins.
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 2PM - | Choose your own adventure: Neuroscience Jupyter notebooks | Student-generated partner projects  | 
+| 2PM - | Choose your own adventure: Neuroscience Jupyter notebooks | - Discuss CoLab projects with Instructor / TA  <br> - student-generated CoLab projects| 
 
 ### Instructors
 - Dan Denman
