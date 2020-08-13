@@ -6,6 +6,7 @@ We have installed Anaconda. This is a package management system, which helps us 
 #### run the following line:
 <br>```conda activate NSPbootcamp```
 #### success?
+you should see (NSPbootcamp) before anything else on the new line of your Terminal/shell:
 <br>
 
 ### Add all of the needed packages to NSPbootcamp
