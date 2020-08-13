@@ -24,6 +24,8 @@ When you install with ```conda install``` or ```pip indstall```, it'll have you 
 ### finally, let's do a pip line to install a couple of things that aren't on Anaconda: 
 <br> ```pip install gcsfs scanpy[louvain] allensdk==2.0.0```
 <br>
+there seems to be an issue with the allensdk versioning right now, so we also need one more line to clean up:
+<br> ```conda install -c conda-forge pynwb```
 
 ### We should be good for the next couple of days. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
