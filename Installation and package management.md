@@ -7,7 +7,6 @@ We have installed Anaconda. This is a package management system, which helps us 
 <br>```conda activate NSPbootcamp```
 #### success?
 <br>
-<br>
 
 ### Add all of the needed packages to NSPbootcamp
 #### There are a few different ways to add pacakges to your environment. In an Anaconda environment, choice A is to use: ```conda install name_of_my_package```. This depends on the package having an Anaconda channel. lot's of packages do. but some don't, in which case they almost certainly have a PyPi channel, in which case you need to use ```pip install name_of_my_package```. In order to use ```pip```, let's make sure our Anaconda environment has ```pip```:
@@ -21,8 +20,7 @@ We have installed Anaconda. This is a package management system, which helps us 
 
 ### finally, let's do a pip line to install a couple of things that aren't on Anaconda: 
 <br> ```pip gcsfs scanpy[louvain] allensdk==2.0.0```
+<br>
 
-<br>
-<br>
 ### We should be good for the next couple of days. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
