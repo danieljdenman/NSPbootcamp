@@ -8,7 +8,7 @@ This is an example of how one might use a script - as a the logical control for 
 Step 1: open VS Code. 
 
 Let's take a look at what we have here:
-![vs code]('./res/vscode1.png')
+![vs code]('https://github.com/danieljdenman/NSPbootcamp/blob/master/res/vscode1.png')
 We have a window where we can write code. We have some bells and whistles, like a terminal that lives right here with us in VS code if we need to do terminal things. More useful features will appear as we make our script. 
 
 We have not covered, at all, one further critical part of using Python - whether through a script or a Jupyter notebook. That is: making your own package. One use of this is to move some functions you write into a ```.py``` you can import, instead of defining locally in a notebook or scripte. Here are a couple of resources for how to do this:
