@@ -29,3 +29,6 @@ there seems to be an issue with the allensdk versioning right now, so we also ne
 
 ### We should be good for the next couple of days. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
+
+### One more thing - a code editor. 
+Choosing an editor is a personal choice that can generate strong opinions. [There are many options](https://duckduckgo.com/?q=best+python+code+editor). If you don't already have a strong preference, we'll use a fully featured and very popular one, VS Code. [Download and install it.](https://code.visualstudio.com/)
