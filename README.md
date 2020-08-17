@@ -15,7 +15,7 @@ The morning session are  formatted to be interactive lectures; after the introdu
 | --- | ------------- |:-------------:| 
 | 9:30 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
 | 10:20 - 10:30AM |break     | break     | 
-| 10:30 - 11:30AM| - git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner CoLab projects| 
+| 10:30 - 11:30AM| - git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner Colaboratory projects| 
 
 
 
