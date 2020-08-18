@@ -10,6 +10,10 @@ you should see ```(NSPbootcamp)``` before anything else on the new line of your 
 ![shell screenshot](https://github.com/danieljdenman/NSPbootcamp/blob/master/res/activate_env.png)
 <br>
 
+#### we're now going to remove this and restart our process together, as an exercise. 
+```conda remove -n NSPbootcamp --all```
+```conda create -n NSPbootcamp python=3.7```
+
 ### Add all of the needed packages to NSPbootcamp
 There are a few different ways to add pacakges to your environment. In an Anaconda environment, choice A is to use: ```conda install name_of_my_package```. This depends on the package having an Anaconda channel. lot's of packages do. but some don't, in which case they almost certainly have a PyPi channel, in which case you need to use ```pip install name_of_my_package```. In order to use ```pip```, let's make sure our Anaconda environment has ```pip```:
 <br>
