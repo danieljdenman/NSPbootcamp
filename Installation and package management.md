@@ -19,19 +19,19 @@ you should see ```(NSPbootcamp)``` before anything else on the new line of your 
 There are a few different ways to add pacakges to your environment. In an Anaconda environment, choice A is to use: ```conda install name_of_my_package```. This depends on the package having an Anaconda channel. lot's of packages do. but some don't, in which case they almost certainly have a PyPi channel, in which case you need to use ```pip install name_of_my_package```.
 
 #### here's another key element of how we'll use python: Jupyter Lab, for Jupyter ipython notebooks. let's install it: 
-```conda install jupyterlab```
+```conda install jupyterlab```<br>
 When you install with ```conda install``` or ```pip install```, it'll have you confirm your intentions. go ahead and enter ```y``` and press ```enter```
 
 #### we could keep going like this, one package at a time. but we can also do a bunch at once (note we could have also done this when we created the environment, but we are learning here!)
-<br> ```conda install scipy seaborn scikit-image fsspec```
+```conda install scipy seaborn scikit-image fsspec```
 
 ### finally, let's do a pip line to install a couple of things that aren't on Anaconda: 
-<br> ```pip install gcsfs scanpy[louvain] allensdk==2.0.0```
+```pip install gcsfs scanpy[louvain] allensdk==2.0.0```
 <br>
-there seems to be an issue with the allensdk versioning right now, so we also need one more line to clean up:
+there seems to be an issue with the allensdk versioning right now, so we also need one more line to clean up versions. (the ```-U``` flag here is telling ```pip``` to upgrade something that might already be installed):
 <br> ```pip install -U pynwb hdmf```
 
-### We should be good for the next couple of days. 
+### We should be good for the next couple of days of python fun!. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
 
 ### One more thing - a code editor. 
