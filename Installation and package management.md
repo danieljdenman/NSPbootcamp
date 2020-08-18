@@ -19,8 +19,7 @@ you should see ```(NSPbootcamp)``` before anything else on the new line of your 
 There are a few different ways to add pacakges to your environment. In an Anaconda environment, choice A is to use: ```conda install name_of_my_package```. This depends on the package having an Anaconda channel. lot's of packages do. but some don't, in which case they almost certainly have a PyPi channel, in which case you need to use ```pip install name_of_my_package```.
 
 #### here's another key element of how we'll use python: Jupyter Lab, for Jupyter ipython notebooks. let's install it: 
-<br> ```conda install jupyterlab```
-<br>
+```conda install jupyterlab```
 When you install with ```conda install``` or ```pip install```, it'll have you confirm your intentions. go ahead and enter ```y``` and press ```enter```
 
 #### we could keep going like this, one package at a time. but we can also do a bunch at once (note we could have also done this when we created the environment, but we are learning here!)
