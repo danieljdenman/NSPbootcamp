@@ -4,14 +4,11 @@ We have installed Anaconda. This is a package management system, which helps us 
 
 ### Confirm you have created an Anaconda environment called NSPbootcamp
 #### run the following line:
-<br>```conda activate NSPbootcamp```
-#### success?
-you should see ```(NSPbootcamp)``` before anything else on the new line of your Terminal/shell:
-![shell screenshot](https://github.com/danieljdenman/NSPbootcamp/blob/master/res/activate_env.png)
-<br>
+If the installation worked, after re-starting your Terminal/shell you should see:
+<br> ```(base) username $```
 
-#### good work! we're now going to remove this and restart our process together, as an exercise. 
-```conda remove -n NSPbootcamp --all```<br>
+#### good work! we're now going to create an environment and install packages together.
+First, make sure you are in the NSPbootcamp directory
 ```conda create -n NSPbootcamp python=3.7```<br>
 ```conda activate NSPbootcamp```
 
