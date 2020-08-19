@@ -9,6 +9,7 @@ If the installation worked, after re-starting your Terminal/shell you should see
 
 #### good work! we're now going to create an environment and install packages together.
 First, make sure you are in the NSPbootcamp directory
+
 ```conda create -n NSPbootcamp python=3.7```<br>
 ```conda activate NSPbootcamp```
 
