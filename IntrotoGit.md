@@ -1,4 +1,5 @@
-git is a form of version control. it helps manage versions of code - whether that is your own versions, or versions shared between people. it is typically invoked from the command line, but can also be used through the GitHub gui. 
+# git
+git is a form of version control. it helps manage versions of code - whether that is your own versions, or versions shared between people. it is typically invoked from the command line, but can also be used through the GitHub gui. One way to think about version control: track changes for the whole codebase, backed up in the cloud. you can always rewind to a point before you broke things. at any given point you are going to track a "branch" of a git repository (codebase / folder)
 
 git is powerful, but it can also be tricky and confusing to learn! here is a good resource for understaning how it works:<br>
 [learn it visually](https://learngitbranching.js.org/)
@@ -10,3 +11,16 @@ after you do that, then run: <br>
 ```git clone https://github.com/danieljdenman/NSPbootcamp.git```
 
 and in your folder you will find a new folder, called "NSPbootcamp"
+
+### some basic concepts:
+#### ```git add```
+you made a change to a file and you want to track that change. great! use ```git add name_of_file.extension``` to add it to the list of local files that git is ready to keep track of. 
+
+#### ```git commit```
+you're done making changes to your file, and you want to commit those changes to the record. great! use ```git commit -m "a description of what has changed"``` to record all of the files you have ```git add```ed 
+
+#### ```git push```
+after you have ```git add```ed and ```git commit```ed, use ```git push``` to actually "push" those changes to cloud
+
+#### ```git pull```
+somoeone else has been working on your branch? go team! use ```git pull``` to grab their changes from the cloud and put them on your computer. have you been also modifying things without pushing? conflict! you'll have to stash or merge. google these to figure out what to do. 
