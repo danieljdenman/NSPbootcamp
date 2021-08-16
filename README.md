@@ -11,9 +11,9 @@
 The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. 
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 9:00 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
+| 9:00 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | **NOTE: We will begin at 10AM on Friday Aug 20** <br> - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
 | 10:20 - 10:30AM |break     | break     | 
-| 10:30 - 11:30AM| - git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner Colaboratory projects| 
+| 10:30 - 11:30AM| -  git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner Colaboratory projects| 
 
 
 
@@ -23,13 +23,13 @@ The afternoon sessions will be held as a looser group session. The instructor wi
 | --- | ------------- |:-------------:| 
 | 2PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Colaboratory projects with Instructor/TA  <br> - student-generated Colaboratory projects| 
 
-### Instructors
-- Dan Denman
+### Course Instructors
 - Ernie Salcedo
+- Dan Denman
 - Emily Gibson
 - Diego Restrepo
-- Tarah 
-- Stephanie
+- Tarah Welton
+- Stephanie Meyer
 
 ### TAs
 
