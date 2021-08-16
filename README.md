@@ -7,7 +7,7 @@
 
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
 
-### Morning session, 9:30 - 11:30AM
+### Morning session, 9:00 - ~11:30AM
 The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. 
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
