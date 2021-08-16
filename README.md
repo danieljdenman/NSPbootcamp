@@ -18,7 +18,7 @@ The morning session are  formatted to be interactive lectures; after the introdu
 
 
 ### Afternoon session, 2:00 - 4:00PM+
-The afternoon sessions will be held as a looser group session, running in parallel on Slack and Zoom. The instructor will lay out the goals with the whole group on Zoom at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask lots of questions in the Slack channel during this time; we will use the main Zoom call to spawn breakout rooms for more in-depth questions, discussions, and check-ins.
+The afternoon sessions will be held as a looser group session. The instructor will lay out the goals with the whole group at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask lots of questions during this time. We hope to have more in-depth questions, discussions, and check-in throughout the time.
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
 | 2PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Colaboratory projects with Instructor/TA  <br> - student-generated Colaboratory projects| 
