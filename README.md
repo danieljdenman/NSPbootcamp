@@ -1,16 +1,14 @@
-# NSP Bootcamp 2020
+# NSP Bootcamp 2021
 
-### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2020 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 20-21. 
+### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2021 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 19-20. 
 
-[Course Slack](neurosciencec-cvb8549.slack.com) (requires invite)
-<br>
-[Course Canvas](https://ucdenver.instructure.com/courses/455954) (requires CU credentials)
+[Course Canvas](https://ucdenver.instructure.com/courses/480895) (requires CU credentials)
 <br>
 
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
 
 ### Morning session, 9:30 - 11:30AM
-The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. A second screen would be useful, but it is not required. 
+The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. 
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
 | 9:30 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
@@ -30,7 +28,8 @@ The afternoon sessions will be held as a looser group session, running in parall
 - Ernie Salcedo
 - Emily Gibson
 - Diego Restrepo
+- Tarah 
+- Stephanie
 
 ### TAs
-- Nick George
-- Josh Hunt
+
