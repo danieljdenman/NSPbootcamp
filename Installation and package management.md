@@ -27,7 +27,8 @@ When you install with ```conda install``` or ```pip install```, it'll have you c
 ```conda install scipy seaborn scikit-image fsspec hdf5```
 
 ### finally, let's do a pip line to install a couple of things that aren't on Anaconda: 
-```pip install gcsfs scanpy[leiden]```
+```conda install seaborn scikit-learn statsmodels numba pytables1```
+```conda install -c conda-forge python-igraph leidenalg```
 
 ### We should be good for the next couple of days of python fun!. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
