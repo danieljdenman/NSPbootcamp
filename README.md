@@ -1,36 +1,35 @@
-# NSP Bootcamp 2020
+# NSP Bootcamp 2021
 
-### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2020 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 20-21. 
+### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2021 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 19-20. 
 
-[Course Slack](neurosciencec-cvb8549.slack.com) (requires invite)
-<br>
-[Course Canvas](https://ucdenver.instructure.com/courses/455954) (requires CU credentials)
+[Course Canvas](https://ucdenver.instructure.com/courses/480895) (requires CU credentials)
 <br>
 
 #### The bootcamp is instructor-led, with lectures and guided coding in the AM and independent coding with TAs available in the PM. 
 
-### Morning session, 9:30 - 11:30AM
-The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. A second screen would be useful, but it is not required. 
+### Morning session, 9:00 - ~11:30AM
+The morning session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. 
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 9:30 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
+| 9:00 - 10:20AM |- Introduction to Python  <br>- installation, kernels, and packages | **NOTE: We will begin at 10AM on Friday Aug 20** <br> - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
 | 10:20 - 10:30AM |break     | break     | 
-| 10:30 - 11:30AM| - git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner Colaboratory projects| 
+| 10:30 - 11:30AM| -  git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - DenmanLab intro  <br> - Colaboratory example <br> - start partner Colaboratory projects| 
 
 
 
 ### Afternoon session, 2:00 - 4:00PM+
-The afternoon sessions will be held as a looser group session, running in parallel on Slack and Zoom. The instructor will lay out the goals with the whole group on Zoom at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask lots of questions in the Slack channel during this time; we will use the main Zoom call to spawn breakout rooms for more in-depth questions, discussions, and check-ins.
+The afternoon sessions will be held as a looser group session. The instructor will lay out the goals with the whole group at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask lots of questions during this time. We hope to have more in-depth questions, discussions, and check-in throughout the time.
 | | Thursday        | Friday      | 
 | --- | ------------- |:-------------:| 
-| 2PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Colaboratory projects with Instructor/TA  <br> - student-generated Colaboratory projects| 
+| 2PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Deepnote projects with Instructor/TA  <br> - student-generated Deepnote projects| 
 
-### Instructors
-- Dan Denman
+### Course Instructors
 - Ernie Salcedo
+- Dan Denman
 - Emily Gibson
 - Diego Restrepo
+- Tarah Welton
+- Stephanie Meyer
 
 ### TAs
-- Nick George
-- Josh Hunt
+

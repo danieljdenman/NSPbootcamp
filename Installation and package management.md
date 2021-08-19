@@ -2,6 +2,12 @@
 
 We have installed Anaconda. This is a package management system, which helps us [install packages and create and maintain separate environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#) for separate programming tasks. One of the great things about python is that we can leverage all of that public and free code out there. Great! One disadvantage: not everyone in the world has coordinated their code bases to work with everyone else's 🤼‍♂️ 🤺 🖥.. (ha!) this means that Jane's very_useful_package may require a numpy version that conflicts with Bob's pretty_good_tool. The solution: create seprate environments for working with Jane's very_useful_package and Bob's pretty_good_tool. For science, examples include separate environments for image analysis, Arduino control, a course, and a home project for scraping data from twitter. 
 
+### Install Anaconda for package and environment management
+1. [download](https://www.anaconda.com/products/individual) and [install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) Anaconda. 
+2. Open a Terminal (Mac OS X) or the newly installed Anaconda command prompt (Windows). 
+3. create a new environment. you should name your envirornment something short and informative about what it will be used for, e.g.: <br>```conda create -n NSPbootcamp```  
+
+
 ### Confirm you have created an Anaconda environment called NSPbootcamp
 #### run the following line:
 <br>```conda activate NSPbootcamp```
@@ -36,3 +42,4 @@ Of course, we can always add packages later as we need them, using a terminal an
 
 ### One more thing - a code editor. 
 Choosing an editor is a personal choice that can generate strong opinions. [There are many options](https://duckduckgo.com/?q=best+python+code+editor). If you don't already have a strong preference, we'll use a fully featured and very popular one, VS Code. [Download and install it.](https://code.visualstudio.com/)
+
