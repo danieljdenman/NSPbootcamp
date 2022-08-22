@@ -11,8 +11,8 @@ The latter part of each session will be held as a looser group session. The inst
 <br>
 | | Thursday        | Friday      | 
 | --- | ------------- |-------------| 
-| 1:00 - 2:00PM |- Introduction to Python  <br>- installation, kernels, and packages | - scripts  <br> - flow control statements  <br> - programming objects, programming things | 
-| 2:00 - 2:50PM| -  git mini-tutorial <br> - Jupyter notebook guided session - Introduction.py | - Deepnote example <br> | 
+| 1:00 - 2:00PM |- Introduction to Python  <br>- [installation, kernels, and packages](https://github.com/danieljdenman/NSPbootcamp/blob/master/Installation%20and%20package%20management.md) | - [scripts](https://github.com/danieljdenman/NSPbootcamp/blob/master/Working%20with%20scripts.md)  <br> - flow control statements  <br> - [programming objects, programming things](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day2_scripts) | 
+| 2:00 - 2:50PM| -  [git mini-tutorial](https://github.com/danieljdenman/NSPbootcamp/blob/master/IntrotoGit.md) <br> - [Jupyter notebook guided session - Introduction.py](https://github.com/danieljdenman/NSPbootcamp/blob/master/Introduction.ipynb) | - Deepnote example <br> | 
 | 2:50PM - 3:00PM | break | break | 
 | 3:00PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Deepnote projects with Instructor/TA  <br> - student-generated Deepnote projects| 
 
