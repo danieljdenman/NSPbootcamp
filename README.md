@@ -4,7 +4,7 @@
 
 #### The bootcamp is instructor-led, with lectures and guided and independent coding, with TAs available. 
 
-### Morning session, 9:30 - ~11:30AM
+### Agenda
 The first part of the session are  formatted to be interactive lectures; after the introductory slides, we will be running code together, with students running and writing code along with the instructors. 
 <br>
 The latter part of each session will be held as a looser group session. The instructor will lay out the goals with the whole group at 2PM. After that, it will be independent and small group work for the duration. We encourage you to ask lots of questions during this time. We hope to have more in-depth questions, discussions, and check-in throughout the time.
@@ -12,7 +12,7 @@ The latter part of each session will be held as a looser group session. The inst
 | | Thursday        | Friday      | 
 | --- | ------------- |-------------| 
 | 1:00 - 2:00PM |- Introduction to Python  <br>- [installation, kernels, and packages](https://github.com/danieljdenman/NSPbootcamp/blob/master/Installation%20and%20package%20management.md) | - [scripts](https://github.com/danieljdenman/NSPbootcamp/blob/master/Working%20with%20scripts.md)  <br> - flow control statements  <br> - [programming objects, programming things](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day2_scripts) | 
-| 2:00 - 2:50PM| -  [git mini-tutorial](https://github.com/danieljdenman/NSPbootcamp/blob/master/IntrotoGit.md) <br> - [Jupyter notebook guided session - Introduction.py](https://github.com/danieljdenman/NSPbootcamp/blob/master/Introduction.ipynb) | - Deepnote example <br> | 
+| 2:00 - 2:50PM| -  [git mini-tutorial](https://github.com/danieljdenman/NSPbootcamp/blob/master/IntrotoGit.md) <br> - [Jupyter notebook guided session - Introduction.py](https://github.com/danieljdenman/NSPbootcamp/blob/master/Introduction.ipynb) | - [Deepnote example](https://deepnote.com/workspace/daniel-denman-a67c-7cf86a0b-afcc-4152-b9eb-ab49d3c9f313/project/NSPbootcamp2022-1ef9cde2-afa7-4066-a168-730b48f24096/) <br> | 
 | 2:50PM - 3:00PM | break | break | 
 | 3:00PM - | choose your own adventure: neuroscience Jupyter notebooks | - discuss Deepnote projects with Instructor/TA  <br> - student-generated Deepnote projects| 
 
