@@ -2,9 +2,13 @@
 git is a form of version control. it helps manage versions of code - whether that is your own versions, or versions shared between people. it is typically invoked from the command line, but can also be used through the GitHub gui. One way to think about version control: track changes for the whole codebase, backed up in the cloud. you can always rewind to a point before you broke things. at any given point you are going to track a "branch" of a git repository (codebase / folder)
 
 git is powerful, but it can also be tricky and confusing to learn! here is a good resource for understaning how it works:<br>
-[learn it visually](https://learngitbranching.js.org/)
+[learn it visually](https://learngitbranching.js.org/). There are two primary ways to use git - from the command line, or from a graphical client. We recommend [Github Desktop](https://desktop.github.com/). Both ways require a github account. If you don't have one, sign up for one at [GitHub](https://github.com/) before downloading and using the client 
 
-we're going to use it to get the resources for class today. the ```git clone``` command will pull, from GitHub where they are hosted, materials like Jupyter notebooks and data into a folder on your computer. first, navigate using ```cd``` to a folder where you want to keep this data. i keep all of my git repositories (folders) in a folder called "github"; you could keep yours in such a folder, or on your desktop, or in Documents, etc. so from a terminal i will run: <br>
+we're going to use it to get the resources for class today. 
+## from Github Desktop
+
+## from the command line
+the ```git clone``` command will pull, from GitHub where they are hosted, materials like Jupyter notebooks and data into a folder on your computer. first, navigate using ```cd``` to a folder where you want to keep this data. i keep all of my git repositories (folders) in a folder called "github"; you could keep yours in such a folder, or on your desktop, or in Documents, etc. so from a terminal i will run: <br>
 ```cd /Users/danieljdenman/github```
 
 after you do that, then run: <br>
