@@ -14,7 +14,7 @@ The latter part of each session will be held as a looser group session. The inst
 | 1:00 - 2:00PM |- Introduction to Python  <br>- [installation, kernels, and packages](https://github.com/danieljdenman/NSPbootcamp/blob/master/Installation%20and%20package%20management.md) | - [scripts](https://github.com/danieljdenman/NSPbootcamp/blob/master/Working%20with%20scripts.md)  <br> - flow control statements  <br> - [programming objects, programming things](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day2_scripts) | 
 | 2:00 - 2:50PM| -  [git mini-tutorial](https://github.com/danieljdenman/NSPbootcamp/blob/master/IntrotoGit.md) <br> - [Jupyter notebook guided session - Introduction.py](https://github.com/danieljdenman/NSPbootcamp/blob/master/Introduction.ipynb) | - [Deepnote example](https://deepnote.com/workspace/daniel-denman-a67c-7cf86a0b-afcc-4152-b9eb-ab49d3c9f313/project/NSPbootcamp2022-1ef9cde2-afa7-4066-a168-730b48f24096/) <br> | 
 | 2:50PM - 3:00PM | break | break | 
-| 3:00PM - | - [choose your own adventure: neuroscience Jupyter notebooks](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day1_JupyterNotebooks) | - discuss Deepnote projects with Instructor/TA  <br> - student-generated Deepnote projects| 
+| 3:00PM - | - [choose your own adventure: neuroscience Jupyter notebooks](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day1_JupyterNotebooks) | - discuss Deepnote projects with Instructor/TA  <br> - [student-generated Deepnote projects](https://deepnote.com/workspace/daniel-denman-a67c-7cf86a0b-afcc-4152-b9eb-ab49d3c9f313/project/NSPbootcamp2021-Duplicate-1ef9cde2-afa7-4066-a168-730b48f24096/%2Ftemplate_NSPbootcamp_NeuroTwitter_Deepnote.ipynb)| 
 
 ### Course Instructors
 - Dan Denman
