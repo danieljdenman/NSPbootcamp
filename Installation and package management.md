@@ -24,10 +24,9 @@ There are a few different ways to add pacakges to your environment. In an Anacon
 When you install with ```conda install``` or ```pip install```, it'll have you confirm your intentions. go ahead and enter ```y``` and press ```enter```
 
 #### we could keep going like this, one package at a time. but we can also do a bunch at once (note we could have also done this when we created the environment, but we are learning here!)
-```conda install scipy seaborn scikit-image fsspec hdf5```
+```conda install scipy seaborn scikit-image fsspec hdf5 scikit-learn statsmodels numba pytables```
 
 ### finally, let's do a pip line to install a couple of things that aren't on Anaconda: 
-```conda install seaborn scikit-learn statsmodels numba pytables1```
 ```conda install -c conda-forge python-igraph leidenalg```
 
 ### We should be good for the next couple of days of python fun!. 
