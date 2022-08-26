@@ -6,6 +6,13 @@ git is powerful, but it can also be tricky and confusing to learn! here is a goo
 
 we're going to use it to get the resources for class today. 
 ## from Github Desktop
+1. download [Github Desktop](https://desktop.github.com/)
+  (you will need to make a github account; go ahead and do this with whatever email you want. a free acccount is great, no need for Pro or anything!)
+2. use a browser to go to https://github.com/danieljdenman/NSPbootcamp/, click on the Big Green "Code" button, and copy the URL
+3. from Github Desktop, go to File>Clone Repository...
+4. from the URL tab, paste what you copied
+5. choose a folder where you will keep this code
+6. press clone!
 
 ## from the command line
 the ```git clone``` command will pull, from GitHub where they are hosted, materials like Jupyter notebooks and data into a folder on your computer. first, navigate using ```cd``` to a folder where you want to keep this data. i keep all of my git repositories (folders) in a folder called "github"; you could keep yours in such a folder, or on your desktop, or in Documents, etc. so from a terminal i will run: <br>
