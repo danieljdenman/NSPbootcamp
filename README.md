@@ -1,6 +1,6 @@
 # NSP Bootcamp 2023
 
-### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2022 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp, Thursday and Friday August 25-26. 
+### This repository contains Jupyter notebooks, scripts, toy data, and other materials for the 2022 University of Colorado Neuroscience Graduate Program incoming 1st year quantitative methods and coding bootcamp. This repo for the python days of the bootcamp Friday August 25. 
 
 #### The bootcamp is instructor-led, with lectures and guided and independent coding.
 
