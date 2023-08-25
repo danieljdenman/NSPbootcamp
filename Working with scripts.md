@@ -2,7 +2,7 @@
 #### Yesterday, we used Jupyter Lab to do some data exploration and analysis in a Jupyter notebook. 
 This is a very efficient way to do data exploration, analysis, and figure making. But there are certainly cases where you want the computer to run something in the background, or execute one thing and be done. In these cases, you might opt for writing a python script, a ```.py``` file that you can invoke from the command line. 
 
-#### This morning, we will make a script from scratch that interacts with an Arduino board with a joystick. 
+#### Today, we will make a script from scratch that interacts with an Arduino board with a joystick. 
 This is an example of how one might use a script - as a the logical control for a behavioral task an animal is performing (i.e., interacting with the joystick). We are making a video game for science here. Other good uses of scripts in the lab are moving data around the network in an automated way; standalone scripts that regenerate a figure based on updated data (similar to the FluorescenceAnalysis Jupyter notebook we made yesterday). There are plenty more. While doing so, we will go over more flow control (loops, conditional statements) and object-oriented programming. 
 
 Step 1: open VS Code. 
