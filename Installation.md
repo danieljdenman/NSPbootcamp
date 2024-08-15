@@ -6,10 +6,10 @@ We will install a package management system, a code editor, and version control 
 - A version control system helps you get and share code with others. What's not to love, using code that other people wrote?
 
 ## A. Install Anaconda for package and environment management
-[download](https://www.anaconda.com/products/individual) and [install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) Anaconda.
+[Download](https://www.anaconda.com/products/individual) and [install](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) Anaconda.
 
 ## B. Install a code editor. 
-Choosing an editor is a personal choice that can generate strong opinions. [There are many options](https://hackr.io/blog/best-python-ide). If you don't already have a strong preference, we'll use a fully featured and very popular one, VS Code. [Download and install it.](https://code.visualstudio.com/). If you do already have a strong preference, great! That means you know how to use it, but please be confirm you know how to use your editor with a git workflow, as this will be used to manage code work for the first year NSP courses. 
+Choosing an editor is a personal choice that can generate strong opinions. [There are many options](https://hackr.io/blog/best-python-ide). If you don't already have a strong preference, we'll use a fully featured and very popular one: VS Code. [Download and install VS Code](https://code.visualstudio.com/). If you do already have a strong preference, great! That means you know how to use it, but please be confirm you know how to use your editor with a git workflow, as this will be used to manage code work for the first year NSP courses. 
 
 ## C.1 Install git. 
 Download and install git in your system using the official [website](https://git-scm.com/downloads). If you think you might already have git, open a terminal (in VS Code press press Ctrl+J or ⌘+J) and confirm with 
