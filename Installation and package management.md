@@ -55,7 +55,7 @@ When you install with ```conda install``` or ```pip install```, it'll have you c
 ### We should be good for the couple of days of python fun in bootcamp. 
 Of course, we can always add packages later as we need them, using a terminal and ```conda install name_of_my_package```or ```pip install name_of_my_package```
 
-### One more thing - Github Desktop or VS Code git management. 
-
+### One more thing - Github Desktop or VS Code or command line git management. 
+We will start the later session with a short introduction to version/source contol with git, includig a walkthrough of how to use it to get the Introductory and independent content for the course. 
 
 
