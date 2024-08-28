@@ -9,7 +9,7 @@ This repository contains Jupyter notebooks, scripts, toy data, and other materia
 <br>
 | | Wed Aug 21  |      | Thur Aug 22     | 
 | --- | --- | ------------- |-------------| 
-| 11:00AM - 12:00PM |- [Introduction to Python](https://github.com/danieljdenman/NSPbootcamp/blob/master/NSPbootcamp_introToPython_2024.pdf)  <br>- [installation, kernels, and packages](https://github.com/danieljdenman/NSPbootcamp/blob/master/Installation%20and%20package%20management.md) |  |  | 
+| 11:00AM - 12:00PM |- [Introduction to Python](https://github.com/danieljdenman/NSPbootcamp/blob/master/NSPbootcamp_introToPython_2024.pdf)  <br>- [installation, kernels](https://github.com/danieljdenman/NSPbootcamp/blob/master/Installation.md) and [packages](https://github.com/danieljdenman/NSPbootcamp/blob/master/Package%20Management.md) |  |  | 
 | 1:00 - 3:00PM| -  [git mini-tutorial](https://github.com/danieljdenman/NSPbootcamp/blob/master/IntrotoGit.md) <br> - [Jupyter notebook guided session - Introduction.py](https://github.com/danieljdenman/NSPbootcamp/blob/master/Introduction.ipynb) | 1:30 - 3:00PM|- [student small group ipynb projects](https://github.com/danieljdenman/NSPbootcamp/tree/master/Day1_JupyterNotebooks) | 
 |  | 
 
