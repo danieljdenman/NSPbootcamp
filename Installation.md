@@ -17,6 +17,8 @@ Download and install git in your system using the official [website](https://git
 git -version
 ```
 
+# For 2025 NSP bootcamp, stop here 🛑 
+
 ## C.2 Create a Github account and link it to VS Code.
 1. Go to [Github](https://www.github.com) and create an account. You can use any email you want including your anschutz.edu or a personal email. 
 2. Configure VS Code to use your Github account. Open a VS code Terminal (press Ctrl+J or ⌘+J) and enter the below, one line at a time, replacing the "Your..." with your information. 
