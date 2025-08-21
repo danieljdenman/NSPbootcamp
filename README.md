@@ -1,5 +1,5 @@
-# NSP Bootcamp 2024
-##  Wednesday August 21 and Thursday August 22. 
+# NSP Bootcamp 2025
+##  Thursday August 21
 This repository contains Jupyter notebooks, scripts, toy data, and other materials for the Python portion 2025 University of Colorado Neuroscience Graduate Program incoming 1st year Python coding bootcamp. The bootcamp is instructor-led, with lectures and guided and independent coding.
 
 ### Agenda
